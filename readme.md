@@ -39,7 +39,7 @@ ZK proofs, NFTs, NTTs, ABTs, or SBTs.
 - [Recognition](#recognition)
 - [Social](#social)
 - [Builder Communities](#builder-communities)
-- [Governance systems](#governance-systems)
+- [Governance Systems](#governance-systems)
 
 <!-- CONTENT -->
 
