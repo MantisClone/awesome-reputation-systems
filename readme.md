@@ -34,7 +34,7 @@ ZK proofs, NFTs, NTTs, ABTs, or SBTs.
 - [Reputation Aggregation](#reputation-aggregation)
 - [Identity Systems](#identity-systems)
 - [Attendance and Participation](#attendance-and-participation)
-- [Contribution and Project Managment](#contribution-and-project-management)
+- [Contribution and Project Management](#contribution-and-project-management)
 - [Achievements and Learning Platforms](#achievements-and-learning-platforms)
 - [Recognition](#recognition)
 - [Social](#social)
