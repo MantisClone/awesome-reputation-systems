@@ -54,7 +54,7 @@ ZK proofs, NFTs, NTTs, ABTs, or SBTs.
 - [Gitcoin Passport](https://passport.gitcoin.co/)
 - [Underdog Protocol](https://www.underdogprotocol.com/)
 - [Karma](https://www.showkarma.xyz/)
-- [Metopia](https://metopia.xyz)
+- [Metopia](https://metopia.gitbook.io/metopia-docs/#what-is-metopia)
 - [SOURC3](https://twitter.com/SOURC3xyz)
 - [Krebit ID](https://krebit.id/)
 - [Repute X](https://twitter.com/repute_x)
@@ -79,7 +79,7 @@ ZK proofs, NFTs, NTTs, ABTs, or SBTs.
 - [Sublime Finance](https://sublime.finance/)
 - [Good Ghosting](https://goodghosting.com/)
 - [Spectral Finance](https://www.spectral.finance/)
-- [Finance.Vote](https://finance.vote/)
+- [Finance.Vote](https://financevote.readthedocs.io/en/latest/content/whitepaper/13_digital_identity.html)
 - [Masa Finance](https://www.masa.finance/)
 - [Rocifi](https://roci.fi/)
 - [CreDA](https://www1.creda.app/home)
@@ -187,7 +187,6 @@ ZK proofs, NFTs, NTTs, ABTs, or SBTs.
 ## Governance Systems
 
 - [Snapshot](https://snapshot.org/#/)
-- [DAOHaus](https://daohaus.club/)
 - [DAOHaus](https://daohaus.club/)
 - [Governor Bravo](https://compound.finance/docs/governance)
 - [Aragon](https://aragon.org/aragon-govern)
