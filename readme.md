@@ -30,8 +30,8 @@ ZK proofs, NFTs, NTTs, ABTs, or SBTs.
 
 - [Reputation Systems](#reputation-systems)
 - [Credit Scores](#credit-scores)
-- [Reputation Aggregation](#reputation-aggregation)
 - [Reputation Scoring](#reputation-scoring)
+- [Reputation Aggregation](#reputation-aggregation)
 - [Identity Systems](#identity-systems)
 - [Attendance and Participation](#attendance-and-participation)
 - [Contribution and Project Managment](#contribution-and-project-management)
@@ -156,7 +156,7 @@ ZK proofs, NFTs, NTTs, ABTs, or SBTs.
 - [Noox](https://noox.world/)
 - [YieldGuild](https://twitter.com/YieldGuild)
 
-# Recognition
+## Recognition
 
 - [Coordinape](https://coordinape.com/)
 - [SourceCred](https://sourcecred.io/)
@@ -181,7 +181,7 @@ ZK proofs, NFTs, NTTs, ABTs, or SBTs.
 ## Builder Communities
 
 - [Jericho](https://www.jericho.gg/)
-- [DeveloperDAO ](https://www.developerdao.com/)
+- [DeveloperDAO](https://www.developerdao.com/)
 - [KERNEL](https://www.kernel.community/en/)
 
 ## Governance Systems
