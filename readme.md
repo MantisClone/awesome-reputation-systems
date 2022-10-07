@@ -146,6 +146,8 @@ ZK proofs, NFTs, NTTs, ABTs, or SBTs.
 - [Layer3](https://beta.layer3.xyz/)
 - [RabbitHole](https://rabbithole.gg/)
 - [101.xyz](https://101.xyz/)
+- [Bankless Academy](https://app.banklessacademy.com/)
+- [D_D Academy](https://academy.developerdao.com/)
 - [LearnWeb3](https://learnweb3.io/)
 - [Dequest](https://linktr.ee/dequest)
 - [Tr3butor](https://app.tr3butor.io/)
