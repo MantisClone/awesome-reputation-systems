@@ -40,7 +40,6 @@ ZK proofs, NFTs, NTTs, ABTs, or SBTs.
 - [Social](#social)
 - [Builder Communities](#builder-communities)
 - [Governance Systems](#governance-systems)
-- [Follow](#follow)
 
 <!-- CONTENT -->
 
@@ -200,12 +199,6 @@ ZK proofs, NFTs, NTTs, ABTs, or SBTs.
 - [JokeDAO](https://www.jokedao.io/)
 
 <!-- END CONTENT -->
-
-## Follow
-
-<!-- list people worth following on social sites (Twitter, LinkedIn, GitHub, YouTube etc.) -->
-
-Who else should we be following!?
 
 ## Contributing
 
