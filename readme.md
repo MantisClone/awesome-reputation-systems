@@ -138,6 +138,7 @@ ZK proofs, NFTs, NTTs, ABTs, or SBTs.
 - [Clarity](https://www.clarity.so/)
 - [Charmverse](https://www.charmverse.io/)
 - [0xStation](https://www.station.express/)
+- [Samudai](https://samudai.xyz/)
 
 ## Achievements and Learning Platforms
 
