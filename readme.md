@@ -73,6 +73,7 @@ ZK proofs, NFTs, NTTs, ABTs, or SBTs.
 
 ## Credit Scores
 
+- [IdentDeFi](https://identdefi.xyz/)
 - [Ormi](https://www.ormilabs.xyz/)
 - [Cred Protocol](https://www.credprotocol.com/)
 - [ARCx](https://arcx.money/)
@@ -107,6 +108,7 @@ ZK proofs, NFTs, NTTs, ABTs, or SBTs.
 - [Serto](https://www.serto.id/)
 - [Spruce ID](https://www.spruceid.com/)
 - [Iden3](https://iden3.io/)
+- [Walt ID](https://walt.id/)
 - [ENS](https://ens.domains/)
 - [Unstoppable Domains](https://unstoppabledomains.com/)
 - [zCloak Network](https://zkid.app/)
@@ -170,6 +172,9 @@ ZK proofs, NFTs, NTTs, ABTs, or SBTs.
 
 - [Lens](https://lens.xyz/)
 - [Lenster](https://lenster.xyz/)
+- [Orb](https://orb.ac/)
+- [Phaver](https://phaver.com/)
+- [Lenstube](https://lenstube.xyz/)
 - [Bluesky](https://blueskyweb.xyz/)
 - [Orbis](https://orbis.club/)
 - [Farcaster](https://www.farcaster.xyz/)
