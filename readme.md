@@ -22,6 +22,8 @@ Reputation systems allow an issuer to assert something about a subject in a way
 that is cryptographically verifiable. These systems commonly use DIDs, VCs,
 ZK proofs, NFTs, NTTs, ABTs, or SBTs.
 
+Also available as a Google Sheet: https://docs.google.com/spreadsheets/d/1uR8vj4Izd7b4fBLqAwmihZzIXvw70y7zQChKon-o6Oc/edit?usp=sharing
+
 </div>
 
 <!-- TOC -->
