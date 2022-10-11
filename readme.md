@@ -72,6 +72,7 @@ Also available as a Google Sheet: https://docs.google.com/spreadsheets/d/1uR8vj4
 - [Neighbourhoods Network](https://neighbourhoods.network/)
 - [Hona](https://www.hona.io/)
 - [Light](https://light.so/home)
+- [Interlace](https://www.interlace.community/)
 
 ## Credit Scores
 
