@@ -112,6 +112,7 @@ Also available as a Google Sheet: https://docs.google.com/spreadsheets/d/1uR8vj4
 - [Spruce ID](https://www.spruceid.com/)
 - [Iden3](https://iden3.io/)
 - [Walt ID](https://walt.id/)
+- [Violet](https://www.violet.co/)
 - [ENS](https://ens.domains/)
 - [Unstoppable Domains](https://unstoppabledomains.com/)
 - [zCloak Network](https://zkid.app/)
