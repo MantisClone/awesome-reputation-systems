@@ -180,6 +180,7 @@ Also available as a Google Sheet: https://docs.google.com/spreadsheets/d/1uR8vj4
 - [Bluesky](https://blueskyweb.xyz/)
 - [Orbis](https://orbis.club/)
 - [Farcaster](https://www.farcaster.xyz/)
+- [Gateway](https://www.mygateway.xyz/)
 - [Mask](https://mask.io/)
 - [Interface](https://www.interface.social/)
 - [CyberConnect](https://link3.to/cyberconnect)
