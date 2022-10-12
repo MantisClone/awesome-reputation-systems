@@ -73,6 +73,8 @@ Also available as a Google Sheet: https://docs.google.com/spreadsheets/d/1uR8vj4
 - [Hona](https://www.hona.io/)
 - [Light](https://light.so/home)
 - [Interlace](https://www.interlace.community/)
+- [Violet](https://www.violet.co/)
+- [Hypercerts](https://github.com/Network-Goods/hypercerts-docs)
 
 ## Credit Scores
 
@@ -89,6 +91,7 @@ Also available as a Google Sheet: https://docs.google.com/spreadsheets/d/1uR8vj4
 - [CreDA](https://www1.creda.app/home)
 - [Sealance](https://www.sealance.io/)
 - [OutDID](https://www.outdid.io/)
+- [OScore](https://www.ocredit.io/)
 
 ## Reputation Scoring
 
@@ -112,7 +115,6 @@ Also available as a Google Sheet: https://docs.google.com/spreadsheets/d/1uR8vj4
 - [Spruce ID](https://www.spruceid.com/)
 - [Iden3](https://iden3.io/)
 - [Walt ID](https://walt.id/)
-- [Violet](https://www.violet.co/)
 - [ENS](https://ens.domains/)
 - [Unstoppable Domains](https://unstoppabledomains.com/)
 - [zCloak Network](https://zkid.app/)
@@ -125,6 +127,13 @@ Also available as a Google Sheet: https://docs.google.com/spreadsheets/d/1uR8vj4
 - [Phi](https://philand.xyz/)
 - [DSI Protocol](https://linktr.ee/dsiprotocol)
 - [Notebook](https://notebook-6.gitbook.io/notebook-docs-1.0/)
+
+## Concepts
+- [Self-Soverign Identity (Wikipedia)](https://en.wikipedia.org/wiki/Self-sovereign_identity)
+- [Decentralized ID (DID) Spec](https://www.w3.org/TR/did-core/)
+- [Verifiable Credentials Working Group FAQ](https://w3c.github.io/webpayments-ig/VCTF/charter/faq.html)
+- [Verifiable Credential (VC) FAQ](https://www.w3.org/TR/vc-data-model/)
+- [EIP-4973: Account-bound Tokens](https://eips.ethereum.org/EIPS/eip-4973)
 
 ## Attendance and Participation
 
@@ -164,6 +173,8 @@ Also available as a Google Sheet: https://docs.google.com/spreadsheets/d/1uR8vj4
 - [GG Quest](https://twitter.com/gg_quest_gg)
 - [Noox](https://noox.world/)
 - [YieldGuild](https://twitter.com/YieldGuild)
+- [HumanDAO Academy](https://academy.humandao.org/)
+- [Chainshot Bootcamp](https://www.chainshot.com/bootcamp)
 
 ## Recognition
 
