@@ -35,6 +35,7 @@ Also available as a Google Sheet: https://docs.google.com/spreadsheets/d/1uR8vj4
 - [Reputation Scoring](#reputation-scoring)
 - [Reputation Aggregation](#reputation-aggregation)
 - [Identity Systems](#identity-systems)
+- [Concepts](#concepts)
 - [Attendance and Participation](#attendance-and-participation)
 - [Contribution and Project Management](#contribution-and-project-management)
 - [Achievements and Learning Platforms](#achievements-and-learning-platforms)
