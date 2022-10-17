@@ -175,6 +175,7 @@ Also available as a Google Sheet: https://docs.google.com/spreadsheets/d/1uR8vj4
 - [YieldGuild](https://twitter.com/YieldGuild)
 - [HumanDAO Academy](https://academy.humandao.org/)
 - [Chainshot Bootcamp](https://www.chainshot.com/bootcamp)
+- [Questbook](https://questbook.app/)
 
 ## Recognition
 
