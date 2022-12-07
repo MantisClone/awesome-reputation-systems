@@ -1,7 +1,6 @@
 <div align="center">
 
 <!-- title -->
-
 <!--lint ignore no-dead-urls-->
 
 # Awesome Reputation Systems [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/MantisClone/awesome-reputation-systems/actions/workflows/lint.yaml/badge.svg)](https://github.com/MantisClone/awesome-reputation-systems/actions/workflows/lint.yaml)
@@ -13,8 +12,9 @@ A curated list of awesome reputation systems and peripheral tools
 <!-- image -->
 
 <a href="" target="_blank" rel="noopener noreferrer">
-  <img src="" />
+  <img src="https://images.unsplash.com/photo-1521249692263-e0659c60326e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2338&q=80" />
 </a>
+Image Source: https://unsplash.com/photos/VMKsKFSuEg8
 
 <!-- description -->
 
@@ -22,7 +22,7 @@ Reputation systems allow an issuer to assert something about a subject in a way
 that is cryptographically verifiable. These systems commonly use DIDs, VCs,
 ZK proofs, NFTs, NTTs, ABTs, or SBTs.
 
-Also available as a Google Sheet: https://docs.google.com/spreadsheets/d/1uR8vj4Izd7b4fBLqAwmihZzIXvw70y7zQChKon-o6Oc/edit?usp=sharing
+Also available as a [Google Sheet](https://docs.google.com/spreadsheets/d/1uR8vj4Izd7b4fBLqAwmihZzIXvw70y7zQChKon-o6Oc/edit?usp=sharing)
 
 </div>
 
