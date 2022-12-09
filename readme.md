@@ -96,7 +96,7 @@ Also available as a [Google Sheet](https://docs.google.com/spreadsheets/d/1uR8vj
 
 ## Reputation Scoring
 
-- [Wall Rekt Meter](https://www.wall.app/rekt-meter)
+- [Wall Rekt Meter](https://rektmeter.wall.app/rekt-meter)
 - [Degen Score](https://degenscore.com/)
 - [ETH Rank](https://www.ethrank.io/)
 
