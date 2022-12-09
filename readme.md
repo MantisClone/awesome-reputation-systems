@@ -14,7 +14,6 @@ A curated list of awesome reputation systems and peripheral tools
 <a href="https://unsplash.com/photos/VMKsKFSuEg8" target="_blank" rel="noopener noreferrer">
   <img src="https://images.unsplash.com/photo-1521249692263-e0659c60326e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2338&q=80" />
 </a>
-Image Source: https://unsplash.com/photos/VMKsKFSuEg8
 
 <!-- description -->
 
